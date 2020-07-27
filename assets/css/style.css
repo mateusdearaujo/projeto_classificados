@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #9b59b6;
+    margin-bottom: 15px;
+}
+.navbar a {
+    color: #ffffff;
+}
+.navbar a:hover {
+    font-weight: bold;
+}
+.navbar .material-icons {
+    color: white;
+    font-size: 30px;
+}
+#navbarNav {
+    justify-content: flex-end;
+}
+form .btn {
+    background-color: #9b59b6;
+    border-color: #9b59b6;
+    color: #ffffff;
+}
+form .btn:hover {
+    opacity: 0.8;
+    background-color: #9b59b6;
+    border-color: #9b59b6;
+    color: #ffffff;
+}
